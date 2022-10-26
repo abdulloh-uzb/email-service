@@ -1,0 +1,3 @@
+[submodule "reg-service-protos"]
+	path = reg-service-protos
+	url = https://github.com/abdulloh-uzb/reg-service-protos.git
